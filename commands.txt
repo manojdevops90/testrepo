@@ -1,0 +1,67 @@
+  1  pwd
+    2  git status
+    3  pwd
+    4  cd
+    5  cd ..
+    6  pwd
+    9  ls
+   10  cd pnb1
+   11  cd desktop
+   12  ls
+   13  cd gitfile
+   15  git branch -m main
+   16  pwd
+   17  touch file1
+   18  git status
+   19  git add .
+   20  git status
+   21  git commit
+   22  git config --global user.name manoj
+   23  git config --global user.email manoj@gmail.com
+   24  git commit
+   25  gid log
+   26  git log
+   27  ls
+   28  cat > file1
+   29  git status
+   30  git add file1
+   31  git status
+   32  git commit -m "commit 2"
+   33  git status
+   34  git log
+   35  git log --online
+   36  git log
+   37  git config --global user.name manish
+   38  git log
+   39  cat >> file1
+   40  git status
+   41  git add
+   42  git add .
+   43  git status
+   44  git commit -m "commit3"
+   45  git log --oneline
+   46  git status d104e91
+   47  git log d104e91
+   48  touch file2
+   49  ls
+   50  git branch main newbr
+   51  git branch newbr main
+   52  git branch
+   53  git checkout newbr
+   54  git status
+   55  git add file2
+   56  git commit file2
+   57  git status
+   58  git log --oneline
+   59  git log
+   60  cat file1
+   61  cat file2
+   62  cat > file2
+   63  git status
+   64  git add .
+   65  git commit
+   66  git log --oneline
+   67  git checkout main
+   68  git merge newbr
+   69  git log --oneline
+   70  git log
